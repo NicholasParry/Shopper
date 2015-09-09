@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lable_menu">Menu</string>
+
+
+    <string-array name="categories">
+
+        <item>Shoes</item>
+
+        <item>Clothing</item>
+
+        <item>Electronics</item>
+
+    </string-array>
+
+    <string-array name="shoe_items">
+
+        <item>Converse</item>
+
+        <item>Birkinstone</item>
+
+        <item>Nike</item>
+
+        <item>Clarks</item>
+
+        <item>Onitsuka Tiger</item>
+
+        <item>Adidas</item>
+
+    </string-array>
+
+    <string-array name="shoe_items_price">
+
+        <item>120.00</item>
+
+        <item>250.00</item>
+
+        <item>100.00</item>
+
+        <item>200.00</item>
+
+        <item>100.00</item>
+
+        <item>200.00</item>
+
+    </string-array>
+
+    <string-array name="clothing_items">
+
+        <item>Mens Shorts</item>
+
+        <item>Mens Pants</item>
+
+        <item>Mens Jacket</item>
+
+        <item>Mens shirt</item>
+
+    </string-array>
+
+    <string-array name="clothing_items_price">
+
+        <item>40.00</item>
+
+        <item>60.50</item>
+
+        <item>300.00</item>
+
+        <item>150.00</item>
+
+    </string-array>
+
+    <string-array name="electronics_items">
+
+        <item>Watch</item>
+
+        <item>Iphone 6</item>
+
+        <item>PC</item>
+
+        <item>Games</item>
+
+    </string-array>
+
+    <string-array name="electronics_items_price">
+
+        <item>600.00</item>
+
+        <item>1500.00</item>
+
+        <item>1000.00</item>
+
+        <item>1000.00</item>
+
+    </string-array>
+
+
+
+
+
+    <array name="shoe_icons">
+        <item>@drawable/nike</item>
+        <item>@drawable/adidas</item>
+        <item>@drawable/clarks</item>
+        <item>@drawable/birkenstock</item>
+    </array>
+
+    <array name="electronic_icons">
+
+        <item>@drawable/watch</item>
+
+        <item>@drawable/iphone6</item>
+
+        <item>@drawable/pc</item>
+
+        <item>@drawable/gm</item>
+
+
+
+    </array>
+
+    <array name="cloth_icons">
+
+        <item>@drawable/shorts</item>
+
+        <item>@drawable/pants</item>
+
+        <item>@drawable/jack</item>
+
+        <item>@drawable/shirt</item>
+
+    </array>
+
+
+
+</resources>
